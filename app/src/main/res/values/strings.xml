@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Mi tienda</string>
+
+    <!-- Marca -->
+    <string name="store_name">PIXELFORGE</string>
+    <string name="store_tagline">Tu tienda gamer</string>
+
+    <!-- Navegación -->
+    <string name="nav_home">Inicio</string>
+    <string name="nav_search">Buscar</string>
+    <string name="nav_cart">Carrito</string>
+    <string name="nav_profile">Perfil</string>
+
+    <!-- Inicio -->
+    <string name="promo_label">OFERTA DE LA SEMANA</string>
+    <string name="promo_title" formatted="false">-30% en RPG</string>
+    <string name="promo_subtitle">Solo hasta el domingo</string>
+    <string name="featured">Destacados</string>
+    <string name="catalog">Catálogo</string>
+
+    <!-- Búsqueda -->
+    <string name="search_hint">Buscar juegos...</string>
+
+    <!-- Carrito -->
+    <string name="cart_title">Tu carrito</string>
+    <string name="cart_empty">Aún no agregas juegos.</string>
+    <string name="checkout">Finalizar compra</string>
+    <string name="total_format">Total: \$%1$.2f</string>
+    <string name="price_format">\$%1$.2f</string>
+
+    <!-- Perfil -->
+    <string name="profile_name">Jugador Uno</string>
+    <string name="profile_level">Nivel 12 · 340 puntos</string>
+
+    <!-- Géneros -->
+    <string name="genre_all">Todos</string>
+    <string name="genre_action">Acción</string>
+    <string name="genre_rpg">RPG</string>
+    <string name="genre_racing">Carreras</string>
+    <string name="genre_casual">Casual</string>
+
+    <!-- Plataformas -->
+    <string name="platform_ps5">PS5</string>
+    <string name="platform_pc">PC</string>
+    <string name="platform_xbox">Xbox</string>
+    <string name="platform_switch">Switch</string>
+    <string name="genre_platform">%1$s · %2$s</string>
+
+    <!-- Juegos -->
+    <string name="game_neon">Neon Drifter</string>
+    <string name="game_dungeon">Dungeon Realms</string>
+    <string name="game_void">Void Striker</string>
+    <string name="game_farm">Pocket Farm</string>
+    <string name="game_cyber">Cyber Arena</string>
+    <string name="game_kingdom">Kingdom Tactics</string>
+</resources>
